@@ -1,11 +1,6 @@
 .idea/
 .DS_Store
-
-pen/
-resized_pen/
-photos/
-test.jpg
-iris.jpg
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
